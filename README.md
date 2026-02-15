@@ -18,21 +18,6 @@ I have over 8 years of hands-on experience in electronics, including work on aer
 
 ---
 
-## 📁 Featured Project
-### **12V → 5V Buck Converter Module (LMR51430)**
-
-A compact synchronous buck converter designed for real-world validation and reuse in embedded systems.
-
-- 12 V input, 5 V regulated output  
-- 2 A continuous (3 A peak silicon capability)  
-- EMI-conscious 2-layer layout  
-- Dedicated test points for all critical nodes  
-
-🔗 **Project repo:**  
-https://github.com/Batterhead221/12V-5V_BUCK.git
-
----
-
 ## 🧠 Design Philosophy
 - Layout decisions are driven by current flow, not aesthetics
 - Power integrity matters more than trace symmetry
